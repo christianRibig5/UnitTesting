@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="039540fe-5b59-4f3a-b145-2467ca44dbce" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/junitDemo$TestSuite_1_test1.ic" NAME="TestSuite_1.test1 Coverage Results" MODIFIED="1563048803352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/junitDemo$TestSuite_1_addition_isCorrect.ic" NAME="TestSuite_1.addition_isCorrect Coverage Results" MODIFIED="1563048970669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/junitDemo$TestSuite_1.ic" NAME="TestSuite_1 Coverage Results" MODIFIED="1563048597807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/junitDemo$TestPractices.ic" NAME="TestPractices Coverage Results" MODIFIED="1563464232859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.driven.development.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="169" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="junitDemo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="junitDemo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="junitDemo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="junitDemo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/GeometricProgression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/ArithmeticProgression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/TestProgression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/Pair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/Largest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NullTesterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CompositTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/GameEntry.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/LargestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/inheritance/ProgressionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/Progression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/ScoreBoard.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dataStructureFundemental/ScoreBoardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/summable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/Summable.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/PracticeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/DataStructurePractices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/PracticeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/TestPractices.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/AllPractices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/LargestAdjacentSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/LargestAdjacentSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dataStructureFundemental/SortingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/IsertionSorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/InsertionSorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NullTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayMethodsTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/PsudoRandomGeneration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/PseudoRandomGeneration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dataStructureFundemental/PseudoRandomGenerationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/data/structure/PseudoRandomGenerationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/practices/ScoreBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/PseudoRandomGeneration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/practice/exam/LargestAdjacentSumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/data/structure/CaesarCipherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/InsertionSorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/ScoreBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/TicTacToe.java" />
+        <option value="$PROJECT_DIR$/src/test/java/data/structure/TicTacToeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/data/structure/SinglyLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/RandomArrayDataGeneration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practice/exam/LargestAdjacentSum.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1038" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566141565386" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.structure" />
+      <recent name="dataStructureFundemental" />
+      <recent name="test.driven.development" />
+      <recent name="inheritance" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SinglyLinkedListTest.singlyLinkedListTest">
+    <configuration name="CaesarCipherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo.junitDemo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.structure" />
+      <option name="MAIN_CLASS_NAME" value="data.structure.CaesarCipherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PseudoRandomGenerationTest.randomizeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo.junitDemo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructureFundemental.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructureFundemental" />
+      <option name="MAIN_CLASS_NAME" value="dataStructureFundemental.PseudoRandomGenerationTest" />
+      <option name="METHOD_NAME" value="randomizeArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomArrayDataGenerationTest.randomizeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo.junitDemo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.structure" />
+      <option name="MAIN_CLASS_NAME" value="data.structure.RandomArrayDataGenerationTest" />
+      <option name="METHOD_NAME" value="randomizeArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedListTest.singlyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo.junitDemo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.structure" />
+      <option name="MAIN_CLASS_NAME" value="data.structure.SinglyLinkedListTest" />
+      <option name="METHOD_NAME" value="singlyLinkedListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest.playGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo.junitDemo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.structure" />
+      <option name="MAIN_CLASS_NAME" value="data.structure.TicTacToeTest" />
+      <option name="METHOD_NAME" value="playGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SinglyLinkedListTest.singlyLinkedListTest" />
+        <item itemvalue="JUnit.TicTacToeTest.playGame" />
+        <item itemvalue="JUnit.CaesarCipherTest" />
+        <item itemvalue="JUnit.RandomArrayDataGenerationTest.randomizeArray" />
+        <item itemvalue="JUnit.PseudoRandomGenerationTest.randomizeArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="039540fe-5b59-4f3a-b145-2467ca44dbce" name="Default Changelist" comment="" />
+      <created>1562925217887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562925217887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TicTacToeTest_playGame - 2019.07.20 at 16h 21m 41s.xml">
+      <configuration name="TicTacToeTest.playGame" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicTacToeTest_playGame - 2019.07.20 at 21h 49m 57s.xml">
+      <configuration name="TicTacToeTest.playGame" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 21h 50m 17s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 21h 51m 43s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 21h 56m 31s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 00m 20s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 01m 01s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 01m 33s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 32m 22s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.21 at 22h 27m 07s.xml">
+      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27836612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3305648" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.36216217" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496112" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32970452" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32970452" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32970452" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24261275" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2972973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.36216217" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496112" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32970452" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32970452" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32970452" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/GeometricProgression.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/design/pattern/Pair.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/TestSuite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#2322#2323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/unitTesting/TestSuite_1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/TestProgression.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/ArithmeticProgression.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/ScoreBoardTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/driven/development/Summable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/driven/development/PracticeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Progression.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/practice/exam/TestPractices.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/ComparisonCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArrayMethodsTesterTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/InsertionSortingTest.java" />
+    <entry file="file://$PROJECT_DIR$/out/test/classes/Test.class" />
+    <entry file="file://$PROJECT_DIR$/out/test/classes/CompositeTest.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/practice/exam/LargestAdjacentSumTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/models/GameEntry.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/classes/data/structure/InsertionSorting.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/RandomArrayDataGeneration.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/RandomArrayDataGenerationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/CaesarCipher.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/CaesarCipherTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/ScoreBoard.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/practice/exam/AllPractices.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/CompositeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/samples/Largest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/samples/LargestTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/inheritance/ProgressionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/TicTacToe.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/TicTacToeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/SinglyLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/SinglyLinkedListTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/InsertionSorting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/practice/exam/LargestAdjacentSum.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test|junitDemo.junitDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
