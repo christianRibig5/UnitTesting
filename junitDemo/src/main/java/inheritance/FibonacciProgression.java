@@ -21,11 +21,16 @@ public class FibonacciProgression extends Progression {
         prev=current;
         current+=temp;
     }
-    public boolean isFibonacciProgressive(List<Long> list){
-        for(int i=0;i<list.size()-1;i++){
-
+    public boolean isFibonacciProgressive(int[]a){
+        for(int i=0;i<a.length-2;i++){
+          if(!((a[i+2]-a[i+1])==a[i]))return false;
         }
         return true;
+    }
+
+    public static void main(String[]arg){
+        System.out.println(new FibonacciProgression().isFibonacciProgressive(new int[]{0,1,1,2,3,5,8}));
+        System.out.println(new FibonacciProgression(2,3).nextValue());
     }
 
 }

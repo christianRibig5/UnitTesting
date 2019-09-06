@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039540fe-5b59-4f3a-b145-2467ca44dbce" name="Default Changelist" comment="" />
+    <list default="true" id="039540fe-5b59-4f3a-b145-2467ca44dbce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/AProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/GProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Progression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/ConcatenatedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/CubePowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/DecodeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/EncodeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/IntegerBasedRounding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/LargestPrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/PatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profesional/test/SequencedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/samples/EmailValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/samples/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/samples/VoidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/AllTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/ConcatenatedSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/CubePoweredTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/DecodeArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/EncodeNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/IntegerBasedRoundingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/LargestPrimeFactorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/PatternMatchingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/profesional/test/SequencedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/samples/EmailValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/CaesarCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/InsertionSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/RandomArrayDataGeneration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/ScoreBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/SinglyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/data/structure/models/GameEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/FibonacciProgression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/inheritance/FibonacciProgression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/inheritance/Progression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/inheritance/Progression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/practice/exam/LargestAdjacentSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/samples/ArrayMethodsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/samples/Largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/InsertionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/InsertionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/RandomArrayDataGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/RandomArrayDataGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/ScoreBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/ScoreBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/structure/models/GameEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/algorithms/models/GameEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Progression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Progression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/exam/LargestAdjacentSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/profesional/test/LargestAdjacentSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/samples/ArrayMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/samples/Largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CompositeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/structure/CaesarCipherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/algorithms/CaesarCipherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/structure/InsertionSortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/algorithms/InsertionSortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/structure/RandomArrayDataGenerationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/algorithms/RandomArrayDataGenerationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/structure/ScoreBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/algorithms/ScoreBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/structure/SinglyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/algorithms/SinglyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/structure/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/algorithms/TicTacToeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/exam/AllPractices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/exam/LargestAdjacentSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/profesional/test/LargestAdjacentSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/exam/TestPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/profesional/test/PracticesCompositeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/samples/LargestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/profesional/test/LargestTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -66,14 +132,88 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/Largest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/GProgression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Progression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/AProgression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,57 +223,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/inheritance/GeometricProgression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inheritance/ArithmeticProgression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inheritance/TestProgression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designPattern/Pair.java" />
-        <option value="$PROJECT_DIR$/src/main/java/samples/Largest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/NullTesterTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestSuite.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CompositTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/GameEntry.java" />
-        <option value="$PROJECT_DIR$/src/test/java/samples/LargestTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/inheritance/ProgressionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CompositeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inheritance/Progression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/ScoreBoard.java" />
-        <option value="$PROJECT_DIR$/src/test/java/dataStructureFundemental/ScoreBoardTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/summable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/Summable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/PracticeTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/DataStructurePractices.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/PracticeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/TestPractices.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/AllPractices.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/driven/development/LargestAdjacentSumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/driven/development/LargestAdjacentSum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/dataStructureFundemental/SortingTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/Sorting.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/IsertionSorting.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/InsertionSorting.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NullTester.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArrayMethodsTester.java" />
-        <option value="$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTester.java" />
-        <option value="$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/PsudoRandomGeneration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructureFundemental/PseudoRandomGeneration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/dataStructureFundemental/PseudoRandomGenerationTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/data/structure/PseudoRandomGenerationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data/structure/practices/ScoreBoard.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/structure/PseudoRandomGeneration.java" />
         <option value="$PROJECT_DIR$/src/test/java/practice/exam/LargestAdjacentSumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/data/structure/CaesarCipherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/structure/InsertionSorting.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/structure/ScoreBoard.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/structure/CaesarCipher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data/structure/TicTacToe.java" />
-        <option value="$PROJECT_DIR$/src/test/java/data/structure/TicTacToeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/structure/SinglyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/test/java/data/structure/SinglyLinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/structure/RandomArrayDataGeneration.java" />
         <option value="$PROJECT_DIR$/src/main/java/practice/exam/LargestAdjacentSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/ArrayMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/EmailValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/EmailValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/ConcatenatedSumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/SequencedArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/LargestPrimeFactorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/EncodeNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/IntegerBasedRoundingTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/CubePoweredTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/ConcatenatedSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/Largest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/CubePowered.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/EncodeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/IntegerBasedRounding.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/LargestPrimeFactor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/samples/PatternMatchingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/PatternMatching.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/SequencedArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/practice/test/SequencedArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practice/test/LargestAdjacentSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mum/test/LargestAdjacentSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/profesional/test/LargestAdjacentSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/profesional/test/DecodeArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/profesional/test/DecodeArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/profesional/test/ConcatenatedSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/profesional/test/AllPractices.java" />
+        <option value="$PROJECT_DIR$/src/test/java/profesional/test/PracticesCompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/data/structure/TicTacToeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/structure/TicTacToe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/samples/Foo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/profesional/test/Largest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/models/GameEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/Progression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Progression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/GP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/AProgression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithms/recursion/GProgression.java" />
       </list>
     </option>
   </component>
@@ -144,8 +284,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1038" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -154,7 +294,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,10 +301,118 @@
               <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="profesional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="profesional" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -174,7 +421,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566141565386" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567767600326" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -185,11 +432,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="profesional.test" />
+      <recent name="samples" />
       <recent name="data.structure" />
       <recent name="dataStructureFundemental" />
       <recent name="test.driven.development" />
-      <recent name="inheritance" />
-      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -207,93 +454,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SinglyLinkedListTest.singlyLinkedListTest">
-    <configuration name="CaesarCipherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitDemo.junitDemo.test" />
+  <component name="RunManager" selected="Application.GProgression">
+    <configuration name="AProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.algorithms.recursion.AProgression" />
+      <module name="junitDemo.junitDemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data.structure.*" />
+          <option name="PATTERN" value="data.algorithms.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="data.structure" />
-      <option name="MAIN_CLASS_NAME" value="data.structure.CaesarCipherTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PseudoRandomGenerationTest.randomizeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitDemo.junitDemo.test" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.algorithms.recursion.Fibonacci" />
+      <module name="junitDemo.junitDemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructureFundemental.*" />
+          <option name="PATTERN" value="data.algorithms.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dataStructureFundemental" />
-      <option name="MAIN_CLASS_NAME" value="dataStructureFundemental.PseudoRandomGenerationTest" />
-      <option name="METHOD_NAME" value="randomizeArray" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomArrayDataGenerationTest.randomizeArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitDemo.junitDemo.test" />
+    <configuration name="FibonacciProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.FibonacciProgression" />
+      <module name="junitDemo.junitDemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data.structure.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="data.structure" />
-      <option name="MAIN_CLASS_NAME" value="data.structure.RandomArrayDataGenerationTest" />
-      <option name="METHOD_NAME" value="randomizeArray" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinglyLinkedListTest.singlyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitDemo.junitDemo.test" />
+    <configuration name="GProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.algorithms.recursion.GProgression" />
+      <module name="junitDemo.junitDemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data.structure.*" />
+          <option name="PATTERN" value="data.algorithms.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="data.structure" />
-      <option name="MAIN_CLASS_NAME" value="data.structure.SinglyLinkedListTest" />
-      <option name="METHOD_NAME" value="singlyLinkedListTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeTest.playGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitDemo.junitDemo.test" />
+    <configuration name="Progression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Progression" />
+      <module name="junitDemo.junitDemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data.structure.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="data.structure" />
-      <option name="MAIN_CLASS_NAME" value="data.structure.TicTacToeTest" />
-      <option name="METHOD_NAME" value="playGame" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SinglyLinkedListTest.singlyLinkedListTest" />
-        <item itemvalue="JUnit.TicTacToeTest.playGame" />
-        <item itemvalue="JUnit.CaesarCipherTest" />
-        <item itemvalue="JUnit.RandomArrayDataGenerationTest.randomizeArray" />
-        <item itemvalue="JUnit.PseudoRandomGenerationTest.randomizeArray" />
+        <item itemvalue="Application.GProgression" />
+        <item itemvalue="Application.AProgression" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.FibonacciProgression" />
+        <item itemvalue="Application.Progression" />
       </list>
     </recent_temporary>
   </component>
@@ -311,35 +544,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TicTacToeTest_playGame - 2019.07.20 at 16h 21m 41s.xml">
-      <configuration name="TicTacToeTest.playGame" configurationId="JUnit" />
+    <history-entry file="PatternMatchingTest - 2019.09.05 at 13h 34m 05s.xml">
+      <configuration name="PatternMatchingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TicTacToeTest_playGame - 2019.07.20 at 21h 49m 57s.xml">
-      <configuration name="TicTacToeTest.playGame" configurationId="JUnit" />
+    <history-entry file="AllTest - 2019.09.05 at 13h 36m 03s.xml">
+      <configuration name="AllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 21h 50m 17s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 22m 38s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 21h 51m 43s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 23m 48s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 21h 56m 31s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 24m 36s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 00m 20s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 25m 56s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 01m 01s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 26m 17s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 01m 33s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 26m 34s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.20 at 22h 32m 22s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 26m 47s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListTest - 2019.07.21 at 22h 27m 07s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListTest" configurationId="JUnit" />
+    <history-entry file="LargestTest - 2019.09.05 at 14h 27m 00s.xml">
+      <configuration name="LargestTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -353,8 +586,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27836612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -363,9 +597,9 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3305648" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55482817" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
@@ -373,7 +607,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32972974" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.36216217" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.36006546" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2496112" />
@@ -386,97 +620,396 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32970452" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24261275" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2972973" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32972974" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.36216217" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496112" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32970452" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.32970452" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32970452" />
-    </layout-to-restore>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/GeometricProgression.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/design/pattern/Pair.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/TestSuite.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/algorithms/CaesarCipherTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/inheritance/ProgressionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/algorithms/SinglyLinkedListTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/samples/VoidData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="36">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/EncodeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/IntegerBasedRounding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/LargestPrimeFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/PatternMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/SequencedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/CubePoweredTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/EncodeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/IntegerBasedRoundingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
-            <element signature="e#2322#2323#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/unitTesting/TestSuite_1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/TestProgression.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/ArithmeticProgression.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/ScoreBoardTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/driven/development/Summable.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/driven/development/PracticeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Progression.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/practice/exam/TestPractices.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/ComparisonCriteria.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/LargestPrimeFactorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="-7">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ArrayMethodsTesterTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/InsertionSortingTest.java" />
-    <entry file="file://$PROJECT_DIR$/out/test/classes/Test.class" />
-    <entry file="file://$PROJECT_DIR$/out/test/classes/CompositeTest.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/samples/ArrayMethodsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/practice/exam/LargestAdjacentSumTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/models/GameEntry.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/classes/data/structure/InsertionSorting.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/RandomArrayDataGeneration.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/RandomArrayDataGenerationTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/CaesarCipher.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/CaesarCipherTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/ScoreBoard.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/practice/exam/AllPractices.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/CompositeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/samples/Largest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/samples/LargestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/inheritance/ProgressionTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/TicTacToe.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/TicTacToeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/SinglyLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/data/structure/SinglyLinkedListTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/structure/InsertionSorting.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/practice/exam/LargestAdjacentSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/SequencedArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/LargestAdjacentSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/LargestAdjacentSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="18" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/DecodeArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/DecodeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/samples/EmailValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/samples/EmailValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/samples/ArrayMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/ConcatenatedSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/CubePowered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/algorithms/TicTacToeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/samples/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/PatternMatchingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/ConcatenatedSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/PracticesCompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/AllTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/profesional/test/LargestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/TicTacToe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/models/GameEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/algorithms/RandomArrayDataGenerationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/data/algorithms/ScoreBoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/ScoreBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/RandomArrayDataGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/InsertionSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/CaesarCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profesional/test/Largest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/FibonacciProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Progression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/GeometricProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/GProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/ArithmeticProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/Progression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/algorithms/recursion/AProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
